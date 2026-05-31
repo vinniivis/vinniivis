@@ -40,9 +40,19 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinniivis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinniivis&theme=github_dark" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinniivis&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinniivis&theme=github_dark" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinniivis&theme=github_dark" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinniivis&theme=github_dark" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinniivis&theme=github_dark&utcOffset=5.5" width="48%" />
 
 </div>
 
