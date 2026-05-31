@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=7DF9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Founder+of+Webazu+Technology;Building+Scalable+Applications;Creating+Technology+That+Matters" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=7DF9FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Explorer;Building+Scalable+Applications;Creating+Technology+That+Matters;Always+Learning+New+Technologies" />
 
 <br><br>
 
@@ -32,25 +32,25 @@
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,javascript,html,css,mysql" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,spring,bootstrap,react,nodejs" />
 </p>
 
-### AI / ML
+### AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" />
 </p>
 
 ---
@@ -103,11 +103,11 @@
 * ⚡ Spring Boot Development
 * 🌐 Laravel Applications
 * ☁️ Cloud Deployment
-* 🚀 Scaling Webazu Technology
+* 🚀 Building impactful software solutions
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -122,11 +122,11 @@
 <p align="center">
 
 <a href="https://github.com/vinniivis">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/vinniivis">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/vinniivis">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-### ⭐ Building. Learning. Innovating.
+### ⭐ Building • Learning • Creating
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0059FF&height=120&section=footer"/>
 
