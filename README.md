@@ -68,11 +68,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinniivis&theme=tokyonight&no-frame=true&no-bg=true&row=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinniivis&theme=github_dark" />
 
 </div>
 
