@@ -2,7 +2,7 @@
 
 # Hi! I'm Vineet Vishwakarma 👨‍💻
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750708-6f1c8f07-3a34-4f2c-a2c7-7d42c8f74b8c.gif" width="500"/>
 
 ### 🚀 Building • Learning • Creating
 
