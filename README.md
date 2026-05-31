@@ -76,17 +76,6 @@
 
 </div>
 
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinniivis&theme=github_dark" />
-
-</div>
-
----
 
 ## 📫 Connect
 
