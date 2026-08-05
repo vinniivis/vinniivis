@@ -101,7 +101,7 @@
 
 * 🧠 Artificial Intelligence & LLMs
 * ⚡ Spring Boot Development
-* 🌐 Laravel Applications
+* 🌐 Mobile Application
 * ☁️ Cloud Deployment
 * 🚀 Building impactful software solutions
 
